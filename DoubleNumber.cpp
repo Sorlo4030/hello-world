@@ -1,3 +1,4 @@
+
 // DoubleNumber.cpp : Defines the entry point for the console application.
 //
 
@@ -14,6 +15,7 @@
 int doubleNumber(int x)
 {
 	return x * 2;
+	//Multiplies by 2
 }
 
 //This function prints the passed variable
